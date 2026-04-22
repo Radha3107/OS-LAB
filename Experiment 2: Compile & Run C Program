@@ -1,0 +1,9 @@
+#include<stdio.h>
+gcc program.c
+./a.out
+
+int main()
+{
+    printf("Hello World\n");
+    return 0;
+}
