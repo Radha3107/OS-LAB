@@ -1,0 +1,14 @@
+#include<stdio.h>
+
+int main()
+{
+    while(1)
+    {
+        printf("Running...\n");
+    }
+    return 0;
+}
+gcc loop.c
+./a.out
+ps
+kill PID
